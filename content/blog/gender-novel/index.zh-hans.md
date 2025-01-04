@@ -1,10 +1,14 @@
 ---
 title: "镜中自我：变身小说的起源、流派与思辨"
-date: 2025-01-05T16:35:29+08:00
+date: 2025-01-04T16:35:29+08:00
 draft: false
 tags:
   - 性别史
   - 变身小说
+series:
+  - News
+categories:
+  - Novel
 ---
 
 
