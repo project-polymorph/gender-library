@@ -1,3 +1,13 @@
+---
+title: "Mirror of the Self: Origins, Branches, and Reflections on Gender-Bender Fiction"
+date: 2025-01-05T16:35:29+08:00
+draft: false
+tags:
+  - history
+  - Gender-Bender novel
+---
+
+
 # Mirror of the Self: The Origins, Branches, and Philosophical Reflections of Chinese Gender-Bender Fiction
 
 ## Introduction
