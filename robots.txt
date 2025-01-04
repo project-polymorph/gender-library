@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://project-polymorph.github.io/hugo-template-starter/sitemap.xml
