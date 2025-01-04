@@ -1,4 +1,4 @@
-module github.com/project-polymorph/hugo-template-starter
+module github.com/project-polymorph/gender-library
 
 go 1.18
 
