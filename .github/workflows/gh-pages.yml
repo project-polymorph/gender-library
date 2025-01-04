@@ -39,7 +39,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --gc --enableGitInfo -b https://project-polymorph.github.io/hugo-template-starter/
+        run: hugo --minify --gc --enableGitInfo -b https://www.genderlibs.org
 
       - name: Deploy 🚀
         uses: peaceiris/actions-gh-pages@v3
