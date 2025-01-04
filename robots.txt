@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://project-polymorph.github.io/hugo-template-starter/sitemap.xml
+Sitemap: https://www.genderlibs.org/sitemap.xml
