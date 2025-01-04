@@ -1,6 +1,6 @@
 main:
-  - name: 文档
-    identifier: documentations
-    url: https://hbs.razonyang.com/v1/zh-hans/docs/
+  - name: Github
+    identifier: github
+    url: https://github.com/project-polymorph/gender-library
     params:
       icon: '<i class="fas fa-fw fa-book"></i>'
