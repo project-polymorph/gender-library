@@ -1,6 +1,6 @@
 baseURL: https://www.genderlibs.org
-title: Hugo Bootstrap Skeleton
-copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
+title: Gender Diversity Digital Library
+copyright: 'Copyright © 2024-{year} GDDL. All Rights Reserved.'
 defaultContentLanguage: en
 hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
 # defaultContentLanguageInSubdir: true
