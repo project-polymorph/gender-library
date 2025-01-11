@@ -14,7 +14,8 @@ tags:
 series:
   - Novel
 categories:
-  - Novel
+  - Image
+images: []
 ---
 
 
