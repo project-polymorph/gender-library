@@ -1,5 +1,5 @@
 ---
-title: News
+title: News and Stories
 menu:
   main:
     weight: 2

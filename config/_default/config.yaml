@@ -1,8 +1,8 @@
-baseURL: https://www.genderlibs.org
-title: Gender Diversity Digital Library
-copyright: 'Copyright © 2024-{year} GDDL. All Rights Reserved.'
-defaultContentLanguage: en
-hasCJKLanguage: true # Uncomment it if your content contains Chinese/Japanese/Korean Languages.
+baseURL: "https://www.genderlibs.org/"   # Typically recommended to add a trailing slash
+title: "Sino-Global Gender Diversity Library"
+copyright: "Copyright © 2024-{year} GenderLibs. All Rights Reserved."
+defaultContentLanguage: "en"
+hasCJKLanguage: true  # If your site has Chinese (or other CJK) content, set true
 # defaultContentLanguageInSubdir: true
 # disableLanguages:
 #  - fr

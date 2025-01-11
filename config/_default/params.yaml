@@ -7,8 +7,8 @@ mainSections:
 
 # titleSeparator: '|' # Title separator. Default to -.
 
-description: An extreme fast, responsive and feature-rich blog theme for Hugo
-keywords: Hugo, Bootstrap, Blog Theme
+description: Connecting Chinese-speaking communities with the world of gender diversity.
+keywords: Transgender, Gender Diversity, Chinese-speaking, queer, lgbt
 # images:
 #   - site-feature-image.jpg
 
@@ -258,9 +258,9 @@ repo:
 topAppBar:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
   social:
-    github: razonyang/hugo-theme-bootstrap
-    patreon: razonyang
-    paypal: razonyang
+    github: project-polymorph/gender-library
+    # patreon: razonyang
+    # paypal: razonyang
 
 docs:
   nav:
@@ -274,43 +274,43 @@ social:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
   email: user@domain.tld
   facebook: yourfacebookusername
-  github: razonyang/hugo-theme-bootstrap
-  gitlab: yourgitlabusername
-  linkedin: yourlinkedinusername
-  xing: yourxingusername
-  stackoverflow: yourstackoverflowuserid
-  twitter: yourtwitterusername
-  weibo: yourweibousername
-  zhihu: yourzhihuusername
-  instagram: yourinstagramusername
-  quora: yourquorausername
-  tumblr: yourtumblrusername
-  reddit: yourredditusername
-  telegram: yourtelegramusername
-  qq: yourqqnumber
-  dockerhub: yourdockerhubusername
-  bitbucket: yourbitbucketworkspaceid
-  kaggle: yourkaggleusername
-  medium: yourmediumusername # Medium username or custom domain(e.g. https://custom.domain.tld).
-  lastfm: yourlastfmusername
-  bilibili: yourbilibiliuserid
-  youtube: youryoutubechannelid
-  discord: yourdiscordinvitecode
-  discourse: https://yourforum.tld
-  facebookgroup: yourfacebookgroupname
-  tiktok: yourtiktokusername
-  pinterest: yourpinterestusername
-  mastodon: yourmastodonusername
-  liberapay: yourliberapayaccount
-  paypal: razonyang
-  patreon: razonyang
-  tipeee: yourtipeeeaccount-fr
+  github: project-polymorph/gender-library
+  # gitlab: yourgitlabusername
+  # linkedin: yourlinkedinusername
+  # xing: yourxingusername
+  # stackoverflow: yourstackoverflowuserid
+  # twitter: yourtwitterusername
+  # weibo: yourweibousername
+  # zhihu: yourzhihuusername
+  # instagram: yourinstagramusername
+  # quora: yourquorausername
+  # tumblr: yourtumblrusername
+  # reddit: yourredditusername
+  # telegram: yourtelegramusername
+  # qq: yourqqnumber
+  # dockerhub: yourdockerhubusername
+  # bitbucket: yourbitbucketworkspaceid
+  # kaggle: yourkaggleusername
+  # medium: yourmediumusername # Medium username or custom domain(e.g. https://custom.domain.tld).
+  # lastfm: yourlastfmusername
+  # bilibili: yourbilibiliuserid
+  # youtube: youryoutubechannelid
+  # discord: yourdiscordinvitecode
+  # discourse: https://yourforum.tld
+  # facebookgroup: yourfacebookgroupname
+  # tiktok: yourtiktokusername
+  # pinterest: yourpinterestusername
+  # mastodon: yourmastodonusername
+  # liberapay: yourliberapayaccount
+  # paypal: razonyang
+  # patreon: razonyang
+  # tipeee: yourtipeeeaccount-fr
 
 author:
-  name: Razon Yang
+  name: GenderLibs
   # avatar: images/profile.png # Avatar image. Default to "images/profile.webp".
-  bio: 'Gopher, PHPer, Full Stack Engineer.'
-  company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
+  bio: 'Connecting Chinese-speaking communities with the world of gender diversity.'
+  # company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
   location: Earth # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
   # about: https://razonyang.com # The external about page. The internal about page will be used if not set.
   params: {
@@ -318,9 +318,10 @@ author:
   }
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
   social:
-    email: razonyang@gmail.com
-    github: github.com/project-polymorph/gender-library
-    twitter: razonyang
-    patreon: razonyang
-    paypal: razonyang
+    email: admin@genderlibs.org
+    github: project-polymorph/gender-library
+    # twitter: transchinese
+    # medium: transchinese
+    # paypal: razonyang
     rss: "" # Remove RSS
+

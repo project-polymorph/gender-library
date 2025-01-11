@@ -1,5 +1,5 @@
 ---
-title: 新闻
+title: 新闻与深度报道
 menu:
   main:
     weight: 2
