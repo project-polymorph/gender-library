@@ -1,5 +1,5 @@
 ---
-title: Docs Sample
+title: Docs
 menu:
   main:
     weight: 1
@@ -7,4 +7,3 @@ menu:
       icon: '<i class="fas fa-fw fa-file"></i>'
 ---
 
-The example of Docs layout.
