@@ -4,3 +4,8 @@ main:
     url: https://github.com/project-polymorph/gender-library
     params:
       icon: '<i class="fas fa-fw fa-book"></i>'
+  - name: About
+    identifier: about
+    url: /about
+    params:
+      icon: '<i class="fas fa-fw fa-gender"></i>'
