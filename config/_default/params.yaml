@@ -15,7 +15,7 @@ keywords: Transgender, Gender Diversity, Chinese-speaking, queer, lgbt
 # metaRobots: noindex, nofollow # Default value for Meta Tag robots
 # metaRobots:  # disable Meta Tag robots
 
-# logo: images/logo.png # Logo image. Default to images/logo.webp.
+logo: images/logo.jpg # Logo image. Default to images/logo.webp.
 # logo: false # Disable Logo
 brand: GenderLibs
 
