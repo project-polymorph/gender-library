@@ -14,8 +14,8 @@ tags:
 series:
   - Novel
 categories:
-  - Image
-images: []
+  - Introduction
+images: ['images/comicbackground.jpg']
 ---
 
 
