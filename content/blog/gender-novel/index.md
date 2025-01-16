@@ -7,7 +7,7 @@ comment: true
 toc: true
 reward: true
 pinned: false
-carousel: true
+# carousel: true
 tags:
   - history
   - Gender-Bender novel
