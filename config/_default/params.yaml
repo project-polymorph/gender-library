@@ -308,7 +308,7 @@ social:
 
 author:
   name: GenderLibs
-  avatar: images/logo.png # Avatar image. Default to "images/profile.webp".
+  avatar: images/logo.webp # Avatar image. Default to "images/profile.webp".
   bio: 'Connecting Chinese-speaking communities with the world of gender diversity.'
   # company: Company # HTML markup are supported, such as: <a href="https://example.com" target="_blank" rel="noopener noreferrer">Company</a>.
   location: Earth # HTML markup are supported, such as: <a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>.
