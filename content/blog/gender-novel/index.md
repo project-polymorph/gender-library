@@ -1,7 +1,7 @@
 ---
 title: "Mirror of the Self: Origins, Branches, and Reflections on Gender-Bender Fiction"
 date: 2025-01-04T16:35:29+08:00
-featured: true
+# featured: true
 draft: false
 comment: true
 toc: true
@@ -15,7 +15,7 @@ series:
   - Novel
 categories:
   - Introduction
-images: ['images/comicbackground.jpg']
+# images: ['images/comicbackground.jpg']
 ---
 
 

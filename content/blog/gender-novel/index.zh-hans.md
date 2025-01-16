@@ -1,7 +1,7 @@
 ---
 title: "镜中自我：变身小说的起源、流派与思辨"
 date: 2025-01-04T16:35:29+08:00
-featured: true
+# featured: true
 draft: false
 comment: true
 toc: true
@@ -15,7 +15,7 @@ series:
   - Novel
 categories:
   - Introduction
-images: ['images/comicbackground.jpg']
+# images: ['images/comicbackground.jpg']
 ---
 
 
