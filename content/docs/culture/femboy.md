@@ -1,4 +1,6 @@
-# 男娘 / Femboy
+---
+title: "男娘 / Femboy"
+---
 
 **"男娘"** (English: **"Femboy"**, Japanese: **"男の娘"** [otoko no ko]) refers to individuals whose **biological sex is male** but who adopt a **feminine appearance, clothing style, or behavioral manner** for self-expression. As a form of gender expression, "男娘" differs both from the performance-oriented nature of drag queens, and from transgender individuals’ sense of gender identity. Most "男娘" identify as men but enjoy appearing in a feminine way for various reasons, such as personal aesthetics, role-playing, identity exploration, or personal comfort.
 

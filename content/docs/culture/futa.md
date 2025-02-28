@@ -1,4 +1,6 @@
-# 扶她 / Futanari
+---
+title: "扶她 / Futanari"
+---
 
 **"扶她"** (Japanese: **ふたなり**, romaji: **Futanari**, literally “dual form”) is a type of character in Japanese ACG (animation, comics, and games) culture. Such fictional characters appear visually female but **also have male genitalia**. As an artistic form of expression, it originally drew from historical Japanese depictions of dual-sex individuals, but in the 1990s it developed into a distinct genre of adult-oriented anime/manga. Later, it spread widely among global ACG fan communities.
 
