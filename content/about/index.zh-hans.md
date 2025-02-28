@@ -4,6 +4,7 @@ description = "GenderLibs 是一个连接华语社群与全球性别多元对话
 date = "2025-01-11"
 reward = false
 readingTime = true
+pinned = true
 +++
 
 *连接华语社群与全球性别多元对话的平台*
