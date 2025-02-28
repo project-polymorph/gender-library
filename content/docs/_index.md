@@ -1,5 +1,5 @@
 ---
-title: Gender Diversity Encyclopedia
+title: Gender Diversity Wiki
 menu:
   main:
     weight: 1

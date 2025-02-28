@@ -1,5 +1,5 @@
 ---
-title: "Metamorphosis of Identity: Gender Transformation Narratives as Cultural Mirrors From Antiquity to Digital Communities"
+title: "Metamorphosis of Identity: Gender Transformation Fictions as Cultural Mirrors From Antiquity to Digital Communities"
 date: 2025-02-05T16:35:29+08:00
 # featured: true
 # draft: false
