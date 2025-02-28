@@ -7,7 +7,7 @@ menu:
       icon: '<i class="fas fa-fw fa-file"></i>'
 ---
 
-Welcome to the Gender Diversity Encyclopedia! This is an open platform dedicated to systematically organizing knowledge related to gender diversity. Gender Diversity refers to a broader range of gender identities and expressions beyond the traditional male-female binary, including transgender, non-binary, genderqueer, and other diverse groups.
+Welcome to the Gender Diversity Wiki! This is an open platform dedicated to systematically organizing knowledge related to gender diversity. Gender Diversity refers to a broader range of gender identities and expressions beyond the traditional male-female binary, including transgender, non-binary, genderqueer, and other diverse groups.
 
 This encyclopedia collects theoretical knowledge, historical research, cultural phenomena, and other long-term content, including: basic gender-related concepts, historical changes in gender-diverse communities, community cultural development, academic research findings, and artistic and literary expressions. We also focus on gender diversity issues and expressions in contemporary internet culture. It should be noted that this encyclopedia does not include specific medical resource information, handbooks, or guides with strong time sensitivity, nor does it constitute medical advice.
 
@@ -69,5 +69,5 @@ Providing analytical frameworks and research tools for gender diversity from int
 
 Discussing ethical issues, methodological challenges, and future directions in gender diversity research.
 
-*The Gender Diversity Encyclopedia is dedicated to building a knowledge beacon in the digital world, illuminating the history and future of gender-diverse groups. We believe that the power of knowledge can transcend time and space, connecting the past and future, creating a more inclusive and diverse world.*
+*The Gender Diversity Wiki is dedicated to building a knowledge beacon in the digital world, illuminating the history and future of gender-diverse groups. We believe that the power of knowledge can transcend time and space, connecting the past and future, creating a more inclusive and diverse world.*
 

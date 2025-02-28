@@ -275,7 +275,7 @@ If we stand back and ask why this wave persists, we might see that its real char
   - [**Wattpad**](https://www.wattpad.com/stories/genderbender) – An international platform for writing and reading, also home to transgender/gender-bender tales  
   - **Tieba / Zhihu / Bilibili** – Chinese forums and social sites for interested communities (search “变身小说” or “性转小说”)
 
-- **Encyclopedias and Additional Resources**  
+- **Wikis and Additional Resources**  
   - [**Wikipedia**](https://en.wikipedia.org/wiki/Gender_bender) – Search “Gender Bender,” “Cross-dressing,” etc. for a look at Western contexts  
   - [**Baidu Baike: Gender-Bender Fiction**](https://baike.baidu.com/item/%E5%8F%98%E8%BA%AB%E5%B0%8F%E8%AF%B4) – Introductory info and related articles (in Chinese)  
   - [**Douban Groups/Lists**](https://www.douban.com/group/) – Some discussion groups rate and recommend gender-bender novels (for instance,  
