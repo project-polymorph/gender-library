@@ -1,4 +1,21 @@
-# From Margins to Mainstream: The Evolution of Transgender Narratives in Media, Literature, and Digital Culture (1950-2024)
+---
+title: "From Margins to Mainstream: The Evolution of Transgender Narratives in Media, Literature, and Digital Culture (1950-2024)"
+date: 2025-02-04T16:35:29+08:00
+# featured: true
+# draft: false
+# comment: true
+# toc: true
+# reward: true
+# pinned: false
+# carousel: true
+tags:
+  - transgender
+# series:
+#   - Novel
+categories:
+  - Introduction
+# images: ['images/comicbackground.jpg']
+---
 
 Transgender narratives – the stories and representations of transgender experiences – have gained increasing prominence in literature, media, and cultural discourse. These narratives range from personal memoirs and fiction to films, journalism, and online storytelling. They not only reflect individual journeys of gender identity but also shape public understanding and policy discussions. In recent decades, a growing body of scholarship has examined how transgender people tell their stories and how those stories are framed by society ([1](https://elearning.unimib.it/pluginfile.php/1501150/mod_resource/content/0/Mason%20Schrock.pdf#:~:text=written%20materials%2C%20the%20present%20study,narratives)) ([2](https://pmc.ncbi.nlm.nih.gov/articles/PMC6824534/#:~:text=Haas%20et%20al,can%20continue%20to%20prompt%20misunderstandings)). This survey provides an in-depth literature review of transgender narratives, structured by key themes. First, we offer a broad overview of how transgender narratives appear in literature, media, and culture. We then explore different types of transgender narratives – including memoir, fiction, film, and political/activist storytelling – and analyze how sociopolitical forces influence these narratives. A comparative look at Eastern vs. Western transgender narratives highlights cross-cultural differences in representation, cultural perceptions, and historical developments. We also examine interdisciplinary perspectives (psychological, sociological, and philosophical) on transgender identity and narrative, and discuss the role of digital and social media in shaping contemporary trans storytelling. Throughout, we include both foundational works with high scholarly citation counts and recent publications from the last 10 years, to balance historical context with current developments. By synthesizing over 30 academic sources from journals, books, and reports, this review aims to provide a comprehensive understanding of transgender narratives and their significance in society.
 
