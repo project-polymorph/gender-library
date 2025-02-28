@@ -1,10 +1,12 @@
 +++
 title = "Why We Built GenderLibs: Bridging Cultural Gaps in Gender Diversity Knowledge"
-description = "Our journey and vision behind creating the Sino-Global Gender Diversity Library and Wiki"
+<!-- description = "Our journey and vision behind creating the Sino-Global Gender Diversity Library and Wiki" -->
 date = "2024-12-15"
 categories = ["Announcement"]
 tags = ["about", "mission", "gender diversity"]
 author = "GenderLibs Team"
+pinned = true
+
 +++
 
 ## From Fragmentation to Connection

@@ -1,10 +1,11 @@
 +++
 title = "为什么我们创建了 GenderLibs：跨越性别多元知识的文化鸿沟"
-description = "创建中外性别多元图书馆与百科全书的旅程与愿景"
+<!-- description = "创建中外性别多元图书馆与百科全书的旅程与愿景" -->
 date = "2024-12-15"
 categories = ["公告"]
 tags = ["关于我们", "使命", "性别多元"]
 author = "GenderLibs 团队"
+pinned = true
 +++
 
 ## 从碎片到连接
