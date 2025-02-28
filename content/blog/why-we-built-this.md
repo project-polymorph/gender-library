@@ -1,5 +1,6 @@
 +++
 title = "Why We Built GenderLibs: Bridging Cultural Gaps in Gender Diversity Knowledge"
+description = "GenderLibs is a digital platform that connects Chinese and global gender diversity knowledge through translation, contextualization, and systematic organization. We aim to bridge linguistic and cultural barriers by providing a resource library and wiki that makes diverse gender expressions accessible across languages."
 date = "2024-12-15"
 categories = ["Announcement"]
 tags = ["about", "mission", "gender diversity"]
@@ -7,8 +8,6 @@ author = "GenderLibs Team"
 pinned = true
 
 +++
-
-<!-- description = "Our journey and vision behind creating the Sino-Global Gender Diversity Library and Wiki" -->
 
 ## From Fragmentation to Connection
 
