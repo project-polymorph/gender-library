@@ -1,5 +1,5 @@
 ---
-title: "Mirror of the Self: Origins, Branches, and Reflections on Gender-Bender Fiction"
+title: "Mirror of the Self: Origins, Branches, and Reflections on ChineseGender-Bender Fiction"
 date: 2025-01-04T16:35:29+08:00
 # featured: true
 draft: false
@@ -17,9 +17,6 @@ categories:
   - Introduction
 # images: ['images/comicbackground.jpg']
 ---
-
-
-# Mirror of the Self: The Origins, Branches, and Philosophical Reflections of Chinese Gender-Bender Fiction
 
 ## Introduction
 
