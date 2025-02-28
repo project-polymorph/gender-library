@@ -206,8 +206,8 @@ search:
   # debug: true
 
 reward:
-  alipay: images/reward/alipay.png
-  wechat: images/reward/wechat.png
+  # alipay: images/reward/alipay.png
+  # wechat: images/reward/wechat.png
   #paypal: images/reward/paypal.png
   #patreon: images/reward/patreon.png
   #liberapay: images/reward/liberapay.png
@@ -243,14 +243,14 @@ pwa:
     #   src: /images/icons/icon-144x144.png
 
 contact:
-  endpoint: https://getform.io/f/56041c81-9e03-4c24-b9c5-61238854d4cd # Backend endpoint, remove this line if you're using Netlify.
+  endpoint: https://getform.io/f/ajjmolra # Backend endpoint, remove this line if you're using Netlify.
   # file: true # Enable file upload
   # fileField: image # The name of file field.
   # reCaptcha:
     # siteKey: ""
 
 repo:
-  url: https://github.com/razonyang/hugo-theme-bootstrap-skeleton
+  url: https://github.com/project-polymorph/gender-library
   branch: main
   # subPath: exampleSite
   # dateFormat: 02/01/2006, 15:04:05 PM
@@ -272,7 +272,7 @@ docs:
 
 social:
   # See https://hbs.razonyang.com/v1/en/docs/widgets/social-links/.
-  email: user@domain.tld
+  email: admin@genderlibs.org
   facebook: yourfacebookusername
   github: project-polymorph/gender-library
   # gitlab: yourgitlabusername
